@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Ken And Devin",
+    "enableMultiJS": true,
+    "longName": "Codename Accent",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Codename Accent",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "412f9213-8b9d-4cf9-b8d5-1c841c2feed8",
+    "versionLabel": "0.01",
+    "watchapp": {
+        "watchface": false
+    }
+}
